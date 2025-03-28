@@ -5,6 +5,6 @@ This project implements a Genetic Algorithm (GA)-based task scheduling algorithm
  **Resource Availability**
 
 The algorithm is evaluated based on:
- Makespan (Total execution time)
- Utilization (Efficient use of resources)
+ Makespan (Total execution time),
+ Utilization (Efficient use of resources),
  Energy Consumption
